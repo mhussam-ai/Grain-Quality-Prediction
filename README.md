@@ -32,7 +32,7 @@ pip install flask
 You will also need to clone this repository to your local machine using the following command:
 
 ```
-git clone https://github.com/YOUR-USERNAME/Grain-Quality-Predictor.git
+git clone https://github.com/mhussam-ai/Grain-Quality-Predictor.git
 ```
 
 ## Usage
